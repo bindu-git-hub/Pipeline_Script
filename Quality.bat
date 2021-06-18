@@ -1,2 +1,2 @@
 Echo "Quality"
-SYSINFO
+SYSTEMINFO
