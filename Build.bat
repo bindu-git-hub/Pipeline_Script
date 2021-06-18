@@ -1,1 +1,2 @@
-echo set
+echo "performing build"
+VER
